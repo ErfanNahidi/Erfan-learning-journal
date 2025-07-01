@@ -25,8 +25,12 @@
 
 # Data Science and AI
 
-- A.I. Machine Learning and Data Science [(Course)](https://downloadly.ir/elearning/video-tutorials/complete-machine-learning-and-data-science-zero-to-mastery-10/) ⏳ *Incomplete*  
+- A.I. Machine Learning and Data Science [(Course)](https://downloadly.ir/elearning/video-tutorials/complete-machine-learning-and-data-science-zero-to-mastery-10/) (2025)✅  
 
 # Algorithms
 
 _(To be added)_
+
+# System Design
+
+- Designing Data-Intensive Applications [(Book)]() (2025) ⏳ *Incomplete*
