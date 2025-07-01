@@ -12,7 +12,7 @@
 
 # Programming
 
-- Python [(Maktabkhooneh)](https://maktabkhooneh.org/course/آموزش-برنامه-نویسی-با-پایتون-مقدماتی-mk346/) and [(Python Crash Course Book)]() (2024) 🔄  
+- Python [(Maktabkhooneh)](https://maktabkhooneh.org/course/آموزش-برنامه-نویسی-با-پایتون-مقدماتی-mk346/) and [(Python Crash Course Book)](https://github.com/ErfanNahidi/Erfan-learning-journal/blob/main/Books/Eric%20Matthes%20-%20Python%20Crash%20Course-No%20Starch%20Press%20(2023).pdf) (2024) ✅
 - C++ [(YouTube)](https://www.youtube.com/watch?v=V0jvBSWonzo) (2019) ✅  
 - C ❌ *Not Started*  
 - Assembly ❌ *Not Started*  
@@ -21,7 +21,7 @@
 # Operating Systems
 
 - LPIC1 [(YouTube)](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU) (2022) ✅  
-- LPIC2 [(LPIC2 Book)]() ❌ *Not Started*  
+- LPIC2 [(LPIC2 Book)](https://github.com/ErfanNahidi/Erfan-learning-journal/blob/main/Books/LPIC-2_LPIC_Study_Guide(2016).pdf) (2024)✅
 
 # Data Science and AI
 
