@@ -33,4 +33,4 @@ _(To be added)_
 
 # System Design
 
-- Designing Data-Intensive Applications [(Book)]() (2025) ⏳ *Incomplete*
+- Designing Data-Intensive Applications [(Book)](https://github.com/ErfanNahidi/Erfan-learning-journal/blob/main/Books/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Systems%20(Martin%20Kleppmann)%20(Z-Library).pdf) (2025) ⏳ *Incomplete*
